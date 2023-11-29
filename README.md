@@ -1,2 +1,1 @@
-# Portfolio
-It is just for the pratice
+# demo-actions-project
